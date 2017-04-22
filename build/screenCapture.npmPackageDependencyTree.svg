@@ -6,7 +6,7 @@
 <tspan x="10" y="58">node_modules</tspan>
 <tspan x="10" y="74">└─┬ satelize@0.2.0 </tspan>
 <tspan x="10" y="90">  └─┬ maxmind-db-reader@0.2.1 </tspan>
-<tspan x="10" y="106">    ├── big-integer@1.6.19 </tspan>
+<tspan x="10" y="106">    ├── big-integer@1.6.21 </tspan>
 <tspan x="10" y="122">    └─┬ ip-address@4.0.0 </tspan>
 <tspan x="10" y="138">      ├─┬ cli@0.6.6 </tspan>
 <tspan x="10" y="154">      │ ├── exit@0.1.2 </tspan>
