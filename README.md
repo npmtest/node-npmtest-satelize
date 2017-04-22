@@ -1,4 +1,7 @@
-# test coverage for  [satelize (v0.2.0)](https://github.com/darul75/satelize)  [![npm package](https://img.shields.io/npm/v/npmtest-satelize.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-satelize) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-satelize.svg)](https://travis-ci.org/npmtest/node-npmtest-satelize)
+# npmtest-satelize
+
+#### basic test coverage for  [satelize (v0.2.0)](https://github.com/darul75/satelize)  [![npm package](https://img.shields.io/npm/v/npmtest-satelize.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-satelize) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-satelize.svg)](https://travis-ci.org/npmtest/node-npmtest-satelize)
+
 #### Get location details (latitude, longitude...) from IP visitor, server side NodeJS module
 
 [![NPM](https://nodei.co/npm/satelize.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/satelize)
@@ -81,7 +84,8 @@
     "scripts": {
         "test": "mocha test/*.js"
     },
-    "version": "0.2.0"
+    "version": "0.2.0",
+    "bin": {}
 }
 ```
 
